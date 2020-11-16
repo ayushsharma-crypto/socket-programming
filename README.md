@@ -28,7 +28,7 @@ Follow the steps to run the code:
     You will get a red color prompt.
 
 - Before running any command place some dummy files of your choice in directory `SERVER/downloadable_files`.
-    I have already put some dummy files of size ranging from 10 bytes to 1.2 GB there. Check it out.
+    I have already put a dummy file. Check it out.
 
 - Your Client is now connected to the Server and go download the available files...
 
